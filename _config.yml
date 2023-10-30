@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage of Tarun Adhikari"
 title_separator          : "-"
 name                     : &name "Tarun Adhikari"
-description              : &description "Homepage of Tarun Adhikari, AMIE"
+description              : &description "personal description"
 url                      : https://tarunadhikari.github.io/acad # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tarunadhikari/acad"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tarun Adhikari"
   avatar           : "profile.png"
-  bio              : "Electronics Engineer | VP at FinesseFleet"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Hyderabad, Telangana, India"
   employer         : Government Industrial Training Institute, Hijli
   pubmed           : 
