@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Hyderabad, Telangana, India"
-  employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : Government Industrial Training Institute, Hijli
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CwA4bsYAAAAJ"
   email            : tarun@theadhikari.in
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,26 +94,26 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/tarunadhikari1976
+  facebook         : tarunadhikari1976
   foursquare       :
-  github           : "academicpages"
+  github           : "tarunadhikari"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/tarunvibes2009"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tarun-adhikari"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AdhikariTweets"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : @tarun_adhikari
   wikipedia        :
 
 
