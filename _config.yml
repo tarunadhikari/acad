@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tarun Adhikari"
+title                    : "Homepage of Tarun Adhikari"
 title_separator          : "-"
 name                     : &name "Tarun Adhikari"
-description              : &description "personal description"
+description              : &description "Homepage of Tarun Adhikari, AMIE"
 url                      : https://tarunadhikari.github.io/acad # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tarunadhikari/acad"
