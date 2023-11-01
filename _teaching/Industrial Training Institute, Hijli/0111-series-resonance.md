@@ -2,7 +2,7 @@
 title: "Series Resonance"
 collection: teaching/iti
 type: "Undergraduate course"
-permalink: /teaching/
+permalink: /teaching/itihijli/series-resonance
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
