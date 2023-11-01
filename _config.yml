@@ -11,7 +11,7 @@ title                    : "Tarun Adhikari"
 title_separator          : "-"
 name                     : &name "Tarun Adhikari"
 description              : &description "personal description"
-url                      : https://tarunadhikari.github.io/acad # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tarunadhikari.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tarunadhikari/acad"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        : tarunvibes2009
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tarun-adhikari"
+  linkedin         : tarun-adhikari
   orcid            : 
   pinterest        :
   soundcloud       :
