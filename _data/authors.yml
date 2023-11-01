@@ -1,18 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
+  name        : "Tarun Adhikari, AMIE"
+  uri         : "https://tarunadhikari.github.io/"
+  email       : "tarun@theadhikari.in"
+  bio         : "I'm a seasoned professional in vocational education with 15 years of experience, excelling as a Workshop Instructor and Senior Technical Assessor. My journey at the Govt. Industrial Training Institute Hijli has been all about shaping aspiring professionals through hands-on training. I also contribute to curriculum development at the West Bengal State Council of Technical & Vocational Education and Skill Development. My teaching approach is data-driven, ensuring effective education, and my utmost dedication lies in creating an inclusive learning environment."
+  avatar      : "profile.png"
+  twitter     : "adhikaritweets"
   google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
