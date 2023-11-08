@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About
-I am **Tarun Adhikari**, a dedicated Workshop Instructor and Senior Technical Assessor, committed to nurturing the future of vocational education and empowering students for success. With over **15 years** of industry experience, my passion lies in helping individuals thrive in their careers.
+I am **Tarun Adhikari**, a dedicated Workshop Instructor and Senior Technical Assessor, committed to nurturing the future of vocational education and empowering students for success. With over **15 years** of domain experience integrated with academic institutions and others, my passion lies in helping individuals thrive in their careers.
 
 As a Workshop Instructor at **Govt. Industrial Training Institute Hijli**, I play a pivotal role in guiding aspiring professionals. My expertise lies in **Electronics Mechanic** training, where I employ innovative workshops, engaging demonstrations, and hands-on sessions to enhance students' understanding and proficiency.
 
@@ -31,7 +31,8 @@ I am dedicated to creating an inclusive learning environment that fosters growth
 
 | **Area of Interest** | **Area of Expertise** | **Publication Records** | **Professional Memberships** |
 | -------------------- | --------------------- | ----------------------- | ---------------------------- |
-| Vocational Education and Training | Electronics Mechanic | [View Publications](/publications) | Associate Member, Institution of Engineers (India) |
+| Vocational Education and Training | Electronics Mechanic | [View Publications](/publications) | Associate Member, Institution of Engineers (India), 
+8, Gokhale Road, Kolkata - 700020, India|
 | Student Empowerment | Technical Skills Assessment | - | |
 | Inclusive Learning Environments | Curriculum Development | - | - |
 
