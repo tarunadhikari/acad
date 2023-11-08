@@ -31,8 +31,7 @@ I am dedicated to creating an inclusive learning environment that fosters growth
 
 | **Area of Interest** | **Area of Expertise** | **Publication Records** | **Professional Memberships** |
 | -------------------- | --------------------- | ----------------------- | ---------------------------- |
-| Vocational Education and Training | Electronics Mechanic | [View Publications](/publications) | Associate Member, Institution of Engineers (India), 
-8, Gokhale Road, Kolkata - 700020, India|
+| Vocational Education and Training | Electronics Mechanic | [View Publications](/publications) | Associate Member, Institution of Engineers (India), 8, Gokhale Road, Kolkata - 700020, India|
 | Student Empowerment | Technical Skills Assessment | - | |
 | Inclusive Learning Environments | Curriculum Development | - | - |
 
