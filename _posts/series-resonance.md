@@ -1,7 +1,7 @@
 ---
 title: 'Series Resonance'
 date: 2023-11-08
-permalink: /posts/electronics/series-resonance/
+permalink: /posts/2023/11/sr/
 tags:
   - Electronics
   - Industrial Training Institute, Hijli
