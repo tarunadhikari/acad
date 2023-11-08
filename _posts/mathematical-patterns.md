@@ -1,7 +1,7 @@
 ---
 title: 'The Beauty of Fractals: Exploring the Intriguing World of Mathematical Patterns'
 date: 2023-11-08
-permalink: /posts/2023/11/mathematics/mathematical-patterns/
+permalink: /posts/2023/11/mathematical-patterns/
 tags:
   - Mathematics
   - Applied Mathematics
